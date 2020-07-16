@@ -1,22 +1,19 @@
 # --- Basic options --- #
 
 # Name of website
-title: Co-Determined!
+title: Tray Bridgewater
 
 # Short description of your site
-description: Towards a Better Future
+description: Tray's Personal Blog
 
 # Your name to show in the footer
-author: Sineae
+author: Tray Bridgewater
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About: "aboutme"
   Featured Articles:
-    - Economics, Government & History: "https://google.com"
-    - Philosophy: "https://google.com"
-    - Living the good life: "https://google.com" 
 
 # --- Logo --- #
 
